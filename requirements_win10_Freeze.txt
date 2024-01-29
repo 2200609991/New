@@ -1,0 +1,44 @@
+arch @ file:///C:/Users/Administrator/arch-4.15-cp36-cp36m-win_amd64.whl
+beautifulsoup4==4.12.3
+bs4==0.0.2
+certifi==2021.5.30
+charset-normalizer==2.0.12
+colorama==0.4.5
+cycler==0.11.0
+Cython==3.0.8
+et-xmlfile==1.1.0
+idna==3.6
+importlib-resources==5.4.0
+kiwisolver==1.3.1
+linearmodels @ file:///C:/Users/Administrator/linearmodels-4.17-cp36-cp36m-win_amd64.whl
+lxml==5.1.0
+matplotlib==3.3.4
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+mypy-extensions==1.0.0
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603480701039/work
+openpyxl==3.1.2
+pandas @ file:///C:/ci/pandas_1608056614942/work
+patsy==0.5.6
+Pillow==8.4.0
+property-cached==1.6.4
+pyltp @ file:///C:/Users/Administrator/pyltp-0.2.1-cp36-cp36m-win_amd64.whl
+pyparsing==3.1.1
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+PyYAML==6.0.1
+requests==2.27.1
+scipy==1.5.4
+seaborn==0.11.2
+simplejson==3.19.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+soupsieve==2.3.2.post1
+statsmodels==0.12.2
+TA-Lib @ file:///C:/Users/Administrator/TA_Lib-0.4.19-cp36-cp36m-win_amd64.whl
+tqdm==4.64.1
+tushare==1.3.7
+urllib3==1.26.18
+websocket-client==0.57.0
+wincertstore==0.2
+zipp==3.6.0
